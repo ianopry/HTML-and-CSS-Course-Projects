@@ -228,7 +228,7 @@ CONTACT STYLES
     font-weight: 900;
     font-size: 1.5em;
     font-variant: small-caps;
-    letter-spacing; .4pt;
+    letter-spacing: .4pt;
     word-spacing: .3pt;
 }
 
@@ -253,7 +253,7 @@ CONTACT STYLES
     font-family: 'Raleway', sans-serif;
 }
 
-.reservation input [type="text"] {
+.reservation input[type="text"] {
     font-size: 15px;
     outline: none;
     font-weight: 600;
